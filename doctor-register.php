@@ -44,10 +44,10 @@
 											</div>
 											<div class="row form-row social-login">
 												<div class="col-6">
-													<a href="https://www.facebook.com/" class="btn btn-facebook btn-block"><i class="fab fa-facebook-f mr-1"></i> Login</a>
+													<a href="https://www.facebook.com/" target="_blank" class="btn btn-facebook btn-block"><i class="fab fa-facebook-f mr-1"></i> Login</a>
 												</div>
 												<div class="col-6">
-													<a href="#" class="btn btn-google btn-block"><i class="fab fa-google mr-1"></i> Login</a>
+													<a href="https://www.google.com/" target="_blank" class="btn btn-google btn-block"><i class="fab fa-google mr-1"></i> Login</a>
 												</div>
 											</div>
 										</form>

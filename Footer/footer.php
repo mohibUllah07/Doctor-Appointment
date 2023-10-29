@@ -11,10 +11,10 @@
 								<!-- Footer Widget -->
 								<div class="footer-widget footer-about">
 									<div class="footer-logo" >
-										<img src="assets/img/footer_logo.png" alt="logo">
+										<img src="assets/img/footer logo.png" alt="logo">
 									</div>
 									<div class="footer-about-content">
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+										<p>The best Doctors and Specialists such as Gynecologists, Skin Specialists, Child Specialists, Surgeons, etc.
 										<div class="social-icon">
 											<ul>
 												<li>
@@ -78,11 +78,11 @@
 									<div class="footer-contact-info">
 										<div class="footer-address">
 											<span><i class="fas fa-map-marker-alt"></i></span>
-											<p> 3556  Beech Street, San Francisco,<br> California, CA 94108 </p>
+											<p> SD-1, Block A North Nazimabad Town,<br>  Karachi, 74700, </p>
 										</div>
 										<p>
 											<i class="fas fa-phone-alt"></i>
-											+923228290468
+											+92 3228290468
 										</p>
 										<p class="mb-0">
 											<i class="fas fa-envelope"></i>

@@ -37,7 +37,7 @@
 				<div class="container-fluid">
 					<div class="section-header text-center">
 						<h2>Clinic and Specialities</h2>
-						<p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p class="sub-title">Book appointments with the best Doctors and Specialists such as Gynecologists, Skin Specialists, Child Specialists, Surgeons, etc. Avail test services such as MRI, CT scan, Ultrasound, X-Ray, etc. and Online Doctor Video Consultations all across Pakistan conveniently.</p>
 					</div>
 					<div class="row justify-content-center">
 						<div class="col-md-9">
@@ -110,11 +110,11 @@
 						<div class="col-lg-4">
 							<div class="section-header ">
 								<h2>Book Our Doctor</h2>
-								<p>Lorem Ipsum is simply dummy text </p>
+								<p>With just a few clicks </p>
 							</div>
 							<div class="about-content">
-								<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum.</p>
-								<p>web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes</p>					
+								<p>Booking a doctor online through a hospital's website is a convenient and efficient way to access quality healthcare. With just a few clicks, you can secure an appointment with a trusted healthcare professional, ensuring you receive the care you need without the hassle of long wait times or phone calls.</p>
+								<p>Online booking offers several advantages, such as the ability to review doctors' profiles and patient reviews, ensuring you make an informed choice. It also allows you to plan your healthcare around your schedule, making it easier to fit appointments into your busy life.</p>					
 								<a href="javascript:;">Read More..</a>
 							</div>
 						</div>
@@ -147,13 +147,13 @@
 										</div>
 										<ul class="available-info">
 											<li>
-												<i class="fas fa-map-marker-alt"></i> Florida, USA
+												<i class="fas fa-map-marker-alt"></i> Karachi, pakistan
 											</li>
 											<li>
 												<i class="far fa-clock"></i> Available on Fri, 22 Mar
 											</li>
 											<li>
-												<i class="far fa-money-bill-alt"></i> $300 - $1000 
+												<i class="far fa-money-bill-alt"></i> PKR 5000 - 7000
 												<i class="fas fa-info-circle" data-toggle="tooltip" title="Lorem Ipsum"></i>
 											</li>
 										</ul>
@@ -195,13 +195,13 @@
 										</div>
 										<ul class="available-info">
 											<li>
-												<i class="fas fa-map-marker-alt"></i> Newyork, USA
+												<i class="fas fa-map-marker-alt"></i> islamabad, pakistan
 											</li>
 											<li>
 												<i class="far fa-clock"></i> Available on Fri, 22 Mar
 											</li>
 											<li>
-												<i class="far fa-money-bill-alt"></i> $50 - $300 
+												<i class="far fa-money-bill-alt"></i> PKR 5000 - 7000 
 												<i class="fas fa-info-circle" data-toggle="tooltip" title="Lorem Ipsum"></i>
 											</li>
 										</ul>
@@ -243,13 +243,13 @@
 										</div>
 										<ul class="available-info">
 											<li>
-												<i class="fas fa-map-marker-alt"></i> Georgia, USA
+												<i class="fas fa-map-marker-alt"></i> Punjab, pakistan
 											</li>
 											<li>
 												<i class="far fa-clock"></i> Available on Fri, 22 Mar
 											</li>
 											<li>
-												<i class="far fa-money-bill-alt"></i> $100 - $400 
+												<i class="far fa-money-bill-alt"></i> PKR 5000 - 7000 
 												<i class="fas fa-info-circle" data-toggle="tooltip" title="Lorem Ipsum"></i>
 											</li>
 										</ul>
@@ -291,13 +291,13 @@
 										</div>
 										<ul class="available-info">
 											<li>
-												<i class="fas fa-map-marker-alt"></i> Louisiana, USA
+												<i class="fas fa-map-marker-alt"></i> lahore, pakistan
 											</li>
 											<li>
 												<i class="far fa-clock"></i> Available on Fri, 22 Mar
 											</li>
 											<li>
-												<i class="far fa-money-bill-alt"></i> $150 - $250 
+												<i class="far fa-money-bill-alt"></i> PKR 5000 - 7000 
 												<i class="fas fa-info-circle" data-toggle="tooltip" title="Lorem Ipsum"></i>
 											</li>
 										</ul>
@@ -339,13 +339,13 @@
 										</div>
 										<ul class="available-info">
 											<li>
-												<i class="fas fa-map-marker-alt"></i> Michigan, USA
+												<i class="fas fa-map-marker-alt"></i> Sindh, pakistan
 											</li>
 											<li>
 												<i class="far fa-clock"></i> Available on Fri, 22 Mar
 											</li>
 											<li>
-												<i class="far fa-money-bill-alt"></i> $50 - $700 
+												<i class="far fa-money-bill-alt"></i> PKR 5000 - 7000 
 												<i class="fas fa-info-circle" data-toggle="tooltip" title="Lorem Ipsum"></i>
 											</li>
 										</ul>
@@ -387,13 +387,13 @@
 										</div>
 										<ul class="available-info">
 											<li>
-												<i class="fas fa-map-marker-alt"></i> Texas, USA
+												<i class="fas fa-map-marker-alt"></i> Karachi, pakistan
 											</li>
 											<li>
 												<i class="far fa-clock"></i> Available on Fri, 22 Mar
 											</li>
 											<li>
-												<i class="far fa-money-bill-alt"></i> $100 - $500 
+												<i class="far fa-money-bill-alt"></i> PKR 5000 - 7000  
 												<i class="fas fa-info-circle" data-toggle="tooltip" title="Lorem Ipsum"></i>
 											</li>
 										</ul>
@@ -435,13 +435,13 @@
 										</div>
 										<ul class="available-info">
 											<li>
-												<i class="fas fa-map-marker-alt"></i> Kansas, USA
+												<i class="fas fa-map-marker-alt"></i> Bahawalpur, pakistan
 											</li>
 											<li>
 												<i class="far fa-clock"></i> Available on Fri, 22 Mar
 											</li>
 											<li>
-												<i class="far fa-money-bill-alt"></i> $100 - $1000 
+												<i class="far fa-money-bill-alt"></i> PKR 5000 - 7000 
 												<i class="fas fa-info-circle" data-toggle="tooltip" title="Lorem Ipsum"></i>
 											</li>
 										</ul>
@@ -483,13 +483,13 @@
 										</div>
 										<ul class="available-info">
 											<li>
-												<i class="fas fa-map-marker-alt"></i> California, USA
+												<i class="fas fa-map-marker-alt"></i> Sindh, pakistan
 											</li>
 											<li>
 												<i class="far fa-clock"></i> Available on Fri, 22 Mar
 											</li>
 											<li>
-												<i class="far fa-money-bill-alt"></i> $100 - $400 
+												<i class="far fa-money-bill-alt"></i> PKR 5000 - 7000 
 												<i class="fas fa-info-circle" data-toggle="tooltip" title="Lorem Ipsum"></i>
 											</li>
 										</ul>
@@ -522,7 +522,8 @@
 						<div class="col-md-7">
 							<div class="section-header">	
 								<h2 class="mt-2">Availabe Features in Our Clinic</h2>
-								<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
+								<p>Experienced Specialists
+State-of-the-Art Facilities, Convenient Appointment Booking, Comprehensive Health Services, Personalized Care, Advanced Technology, Timely Consultations, Friendly Staff, Strict Hygiene Standards, Patient-Centric Approach </p>
 							</div>	
 							<div class="features-slider slider">
 								<!-- Slider Item -->

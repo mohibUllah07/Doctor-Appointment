@@ -22,7 +22,7 @@
 								<span></span>
 							</span>
 						</a>
-						<a href="index-2.php" class="navbar-brand logo">
+						<a href="index.php" class="navbar-brand logo">
 							<img src="assets/img/logo design.png" class="img-fluid" alt="Logo">
 						</a>
 					</div>
@@ -37,7 +37,7 @@
 						</div>
 						<ul class="main-nav">
 							<li class="active">
-								<a href="index-2.php">Home</a>
+								<a href="index.php">Home</a>
 							</li>
 							<li class="has-submenu">
 								<a href="#">Doctors <i class="fas fa-chevron-down"></i></a>
@@ -105,7 +105,7 @@
 							</div>
 							<div class="header-contact-detail">
 								<p class="contact-header">Contact</p>
-								<p class="contact-info-header">+923228290468</p>
+								<p class="contact-info-header">+92 3228290468</p>
 							</div>
 						</li>
 						<li class="nav-item">
