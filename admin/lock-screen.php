@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-    
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/lock-screen.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:53 GMT -->
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
@@ -52,7 +50,7 @@
 								</form>
 								<!-- /Form -->
 								
-								<div class="text-center dont-have">Sign in as a different user? <a href="login.html">Login</a></div>
+								<div class="text-center dont-have">Sign in as a different user? <a href="login.php">Login</a></div>
 							</div>
                         </div>
                     </div>
@@ -72,6 +70,4 @@
 		<script src="assets/js/script.js"></script>
 		
     </body>
-
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/lock-screen.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:53 GMT -->
 </html>
