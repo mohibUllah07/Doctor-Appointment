@@ -1,5 +1,8 @@
 <?php include "Navbar/header.php" ?>
 
+	<!-- Main Wrapper -->
+	<div class="main-wrapper">
+		
 			<!-- Breadcrumb -->
 			<div class="breadcrumb-bar">
 				<div class="container-fluid">
@@ -1543,6 +1546,4 @@
 		<script src="assets/js/script.js"></script>
 		
 	</body>
-
-<!-- doccure/components.html  30 Nov 2019 04:12:19 GMT -->
 </html>

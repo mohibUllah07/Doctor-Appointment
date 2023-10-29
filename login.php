@@ -1,4 +1,7 @@
 <?php include "Navbar/header.php" ?>
+
+	<!-- Main Wrapper -->
+	<div class="main-wrapper">
 			
 			<!-- Page Content -->
 			<div class="content">
@@ -27,7 +30,7 @@
 												<label class="focus-label">Password</label>
 											</div>
 											<div class="text-right">
-												<a class="forgot-link" href="forgot-password.html">Forgot Password ?</a>
+												<a class="forgot-link" href="forgot-password.php">Forgot Password ?</a>
 											</div>
 											<button class="btn btn-primary btn-block btn-lg login-btn" type="submit">Login</button>
 											<div class="login-or">
@@ -42,7 +45,7 @@
 													<a href="#" class="btn btn-google btn-block"><i class="fab fa-google mr-1"></i> Login</a>
 												</div>
 											</div>
-											<div class="text-center dont-have">Don’t have an account? <a href="register.html">Register</a></div>
+											<div class="text-center dont-have">Don’t have an account? <a href="register.php">Register</a></div>
 										</form>
 									</div>
 								</div>
@@ -71,6 +74,4 @@
 		<script src="assets/js/script.js"></script>
 		
 	</body>
-
-<!-- doccure/login.html  30 Nov 2019 04:12:20 GMT -->
 </html>

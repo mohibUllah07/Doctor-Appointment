@@ -1,4 +1,7 @@
 <?php include "Navbar/header.php" ?>
+
+	<!-- Main Wrapper -->
+	<div class="main-wrapper">
 			
 			<!-- Page Content -->
 			<div class="content">
@@ -118,6 +121,4 @@
 		<script src="assets/js/script.js"></script>
 		
 	</body>
-
-<!-- doccure/video-call.html  30 Nov 2019 04:12:18 GMT -->
 </html>

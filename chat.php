@@ -460,6 +460,9 @@
 			</div>		
 			<!-- /Page Content -->
 			<?php include "Footer/footer.php" ?>
+
+				<!-- Main Wrapper -->
+		<div class="main-wrapper">
 			
 		</div>
 		<!-- /Main Wrapper -->
@@ -534,6 +537,4 @@
 		<script src="assets/js/script.js"></script>
 		
 	</body>
-
-<!-- doccure/chat.html  30 Nov 2019 04:12:18 GMT -->
 </html>

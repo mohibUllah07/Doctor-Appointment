@@ -1,5 +1,8 @@
 <?php include "Navbar/header.php" ?>
 
+	<!-- Main Wrapper -->
+	<div class="main-wrapper">
+
 			<!-- Page Content -->
 			<div class="content">
 				<div class="container-fluid">
@@ -26,7 +29,7 @@
 												<label class="focus-label">Email</label>
 											</div>
 											<div class="text-right">
-												<a class="forgot-link" href="login.html">Remember your password?</a>
+												<a class="forgot-link" href="login.php">Remember your password?</a>
 											</div>
 											<button class="btn btn-primary btn-block btn-lg login-btn" type="submit">Reset Password</button>
 										</form>
@@ -61,6 +64,4 @@
 		<script src="assets/js/script.js"></script>
 		
 	</body>
-
-<!-- doccure/forgot-password.html  30 Nov 2019 04:12:20 GMT -->
 </html>

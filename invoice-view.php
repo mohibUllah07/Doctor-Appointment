@@ -1,4 +1,7 @@
 <?php include "Navbar/header.php" ?>
+
+	<!-- Main Wrapper -->
+	<div class="main-wrapper">
 			
 			<!-- Breadcrumb -->
 			<div class="breadcrumb-bar">
@@ -171,6 +174,4 @@
 		<script src="assets/js/script.js"></script>
 		
 	</body>
-
-<!-- doccure/invoice-view.html  30 Nov 2019 04:12:20 GMT -->
 </html>

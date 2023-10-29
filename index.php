@@ -1,5 +1,6 @@
 <?php include "Navbar/header.php" ?>
-
+	<!-- Main Wrapper -->
+	<div class="main-wrapper">
 			
 			<!-- Home Banner -->
 			<section class="section section-search">

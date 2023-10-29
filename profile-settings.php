@@ -1,4 +1,7 @@
 <?php include "Navbar/header.php" ?>
+
+	<!-- Main Wrapper -->
+	<div class="main-wrapper">
 			
 			<!-- Breadcrumb -->
 			<div class="breadcrumb-bar">
@@ -229,6 +232,4 @@
 		<script src="assets/js/script.js"></script>
 		
 	</body>
-
-<!-- doccure/profile-settings.html  30 Nov 2019 04:12:18 GMT -->
 </html>

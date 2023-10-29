@@ -1,4 +1,7 @@
 <?php include "Navbar/header.php" ?>
+
+	<!-- Main Wrapper -->
+	<div class="main-wrapper">
 			
 			<!-- Breadcrumb -->
 			<div class="breadcrumb-bar">

@@ -1,5 +1,8 @@
 <?php include "Navbar/header.php" ?>
 
+	<!-- Main Wrapper -->
+	<div class="main-wrapper">
+
 			<!-- Page Content -->
 			<div class="content">
 				<div class="container-fluid">
@@ -15,7 +18,7 @@
 									</div>
 									<div class="col-md-12 col-lg-6 login-right">
 										<div class="login-header">
-											<h3>Patient Register <a href="doctor-register.html">Are you a Doctor?</a></h3>
+											<h3>Patient Register <a href="doctor-register.php">Are you a Doctor?</a></h3>
 										</div>
 										
 										<!-- Register Form -->
@@ -33,7 +36,7 @@
 												<label class="focus-label">Create Password</label>
 											</div>
 											<div class="text-right">
-												<a class="forgot-link" href="login.html">Already have an account?</a>
+												<a class="forgot-link" href="login.php">Already have an account?</a>
 											</div>
 											<button class="btn btn-primary btn-block btn-lg login-btn" type="submit">Signup</button>
 											<div class="login-or">
@@ -42,7 +45,7 @@
 											</div>
 											<div class="row form-row social-login">
 												<div class="col-6">
-													<a href="#" class="btn btn-facebook btn-block"><i class="fab fa-facebook-f mr-1"></i> Login</a>
+													<a href="https://www.facebook.com/" class="btn btn-facebook btn-block"><i class="fab fa-facebook-f mr-1"></i> Login</a>
 												</div>
 												<div class="col-6">
 													<a href="#" class="btn btn-google btn-block"><i class="fab fa-google mr-1"></i> Login</a>
@@ -79,6 +82,4 @@
 		<script src="assets/js/script.js"></script>
 		
 	</body>
-
-<!-- doccure/register.html  30 Nov 2019 04:12:20 GMT -->
 </html>

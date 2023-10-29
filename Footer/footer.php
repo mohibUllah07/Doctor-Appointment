@@ -10,27 +10,24 @@
 							
 								<!-- Footer Widget -->
 								<div class="footer-widget footer-about">
-									<div class="footer-logo">
-										<img src="assets/img/footer-logo.png" alt="logo">
+									<div class="footer-logo" >
+										<img src="assets/img/footer_logo.png" alt="logo">
 									</div>
 									<div class="footer-about-content">
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
 										<div class="social-icon">
 											<ul>
 												<li>
-													<a href="#" target="_blank"><i class="fab fa-facebook-f"></i> </a>
+													<a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i> </a>
 												</li>
 												<li>
-													<a href="#" target="_blank"><i class="fab fa-twitter"></i> </a>
+													<a href="https://twitter.com/i/flow/login" target="_blank"><i class="fab fa-twitter"></i> </a>
 												</li>
 												<li>
-													<a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+													<a href="https://pk.linkedin.com/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 												</li>
 												<li>
-													<a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
-												</li>
-												<li>
-													<a href="#" target="_blank"><i class="fab fa-dribbble"></i> </a>
+													<a href="https://www.instagram.com/accounts/login/" target="_blank"><i class="fab fa-instagram"></i></a>
 												</li>
 											</ul>
 										</div>
@@ -75,7 +72,6 @@
 							</div>
 							
 							<div class="col-lg-3 col-md-6">
-							
 								<!-- Footer Widget -->
 								<div class="footer-widget footer-contact">
 									<h2 class="footer-title">Contact Us</h2>
@@ -86,23 +82,19 @@
 										</div>
 										<p>
 											<i class="fas fa-phone-alt"></i>
-											+1 315 369 5943
+											+923228290468
 										</p>
 										<p class="mb-0">
 											<i class="fas fa-envelope"></i>
-											doccure@example.com
+											talib@gamil.com
 										</p>
 									</div>
 								</div>
 								<!-- /Footer Widget -->
-								
 							</div>
-							
 						</div>
 					</div>
 				</div>
 				<!-- /Footer Top -->
-
-				
 			</footer>
 			<!-- /Footer -->
