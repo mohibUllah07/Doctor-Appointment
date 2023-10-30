@@ -58,9 +58,10 @@
 								<a href="#"><i class="fe fe-warning"></i> <span> Error Pages </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
 									<li><a href="error-404.php">404 Error </a></li>
-									<li><a href="error-500.php">500 Error </a></li>
+									<li><a href="error-500.php">500 Error gfgfgf</a></li>
 								</ul>
 							</li>
+
 							<li> 
 								<a href="blank-page.php"><i class="fe fe-file"></i> <span>Blank Page</span></a>
 							</li>
@@ -77,7 +78,7 @@
 					</div>
                 </div>
             </div>
-			
+
 			<!-- /Sidebar -->
 			
 			<!-- Page Wrapper -->
