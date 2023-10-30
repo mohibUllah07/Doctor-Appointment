@@ -58,7 +58,7 @@
 								<a href="#"><i class="fe fe-warning"></i> <span> Error Pages </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
 									<li><a href="error-404.php">404 Error </a></li>
-									<li><a href="error-500.php">500 Error gfgfgf</a></li>
+									<li><a href="error-500.php">500 Error talib</a></li>
 								</ul>
 							</li>
 
