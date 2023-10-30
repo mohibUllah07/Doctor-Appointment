@@ -77,6 +77,7 @@
 					</div>
                 </div>
             </div>
+			
 			<!-- /Sidebar -->
 			
 			<!-- Page Wrapper -->
