@@ -6,7 +6,7 @@
         <title>Admin Dashboard</title>
 		
 		<!-- Favicon -->
-        <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+        <link rel="shortcut icon" type="image/x-icon" href="assets/img/care copy.png">
 		
 		<!-- Bootstrap CSS -->
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -36,7 +36,7 @@
 						<img src="assets/img/logo design.png" alt="Logo">
 					</a>
 					<a href="index.php" class="logo logo-small">
-						<img src="assets/img/logo-small.png" alt="Logo" width="30" height="30">
+						<img src="assets/img/care copy.png" alt="Logo" width="30" height="30">
 					</a>
                 </div>
 				<!-- /Logo -->
